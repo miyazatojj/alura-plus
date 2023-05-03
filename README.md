@@ -12,7 +12,7 @@ A Alura Plus é uma plataforma de streaming com os conteúdos educacionais da Al
 
 ## Status
 
-![Badge](https://img.shields.io/badge/STATUS-EM%20DESENVOLVIMENTO-155E9C?style=for-the-badge)
+![Badge](https://img.shields.io/badge/STATUS-Concluído-%238FCACA?style=for-the-badge)
 
 ![alura-plus](https://user-images.githubusercontent.com/89876548/235940680-9854b883-0fd8-4a2b-8b75-7e7dedd77211.png)
 ![alura-plus-2](https://user-images.githubusercontent.com/89876548/235948957-c08044f5-cf76-4939-93c6-3fa6899a9789.png)
