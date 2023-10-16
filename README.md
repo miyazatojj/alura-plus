@@ -1,18 +1,41 @@
+<div align="center">
+  
 ![logo](https://user-images.githubusercontent.com/89876548/235924055-774cf2fe-6c89-4ec6-8bdf-ce500c64a014.png)
 
-## Descrição do Projeto
+</div>
 
-Projeto do curso HTML e CSS: praticando HTML/CSS da Alura. <br/>
-A Alura Plus é uma plataforma de streaming com os conteúdos educacionais da Alura.
+## Descrição do projeto
 
-## Tecnologias
+A Alura Plus é uma plataforma de streaming com os conteúdos educacionais da Alura.<br/>
+Projeto desenvolvido no curso "HTML e CSS: Praticando HTML/CSS" da Alura para aprender:
+
+* Aprender a construir um site utilizando HTML e CSS;
+* Identificar elementos e estilos através do Figma;
+* Aplicar conhecimentos adquiridos em um projeto real;
+* Criar um repositório para armazenar o código do projeto;
+* Realizar o deploy de um site através do GitHub Pages.
+
+## Técnicas e tecnologias utilizadas
 
 * HTML
 * CSS
 
-## Status
+Algumas propriedades abordadas:
 
-![Badge](https://img.shields.io/badge/STATUS-Concluído-%238FCACA?style=for-the-badge)
+- `display: flex`;
+- `display: grid`;
+- `grid-template-columns`;
+- `align` e `justify-content`;
+
+## Status do projeto
+
+![Badge](https://img.shields.io/badge/STATUS-Concluído-167BF7?style=for-the-badge)
+
+## Acesso ao projeto
+
+[Clique aqui](https://miyazatojj.github.io/alura-plus/)
+
+## Screenshots
 
 ![alura-plus](https://user-images.githubusercontent.com/89876548/235940680-9854b883-0fd8-4a2b-8b75-7e7dedd77211.png)
 ![alura-plus-2](https://user-images.githubusercontent.com/89876548/235948957-c08044f5-cf76-4939-93c6-3fa6899a9789.png)
